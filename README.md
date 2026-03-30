@@ -1,13 +1,10 @@
-# Ecommerce_Order_System
-CLI-based E-commerce Order Engine simulating real backend systems. Supports product &amp; inventory management, multi-user carts, order processing, payment handling, rollback, concurrency control, fraud detection, logging, and event-driven operations ensuring consistency and scalability.
-# 🛒 E-Commerce Order Engine (CLI-Based)
+# 🛒 Ecommerce_Order_System
+CLI-based E-commerce Order Engine simulating real backend systems. Supports product &amp; inventory management, multi-user carts, order processing, payment handling, rollback, concurrency control, fraud detection, logging, and event-driven operations ensuring consistency and scalability.🛒 
 
-#📌 Project Overview
-This project is a CLI-based **E-Commerce Order Engine** that simulates the backend functionality of real-world online shopping platforms like Amazon or Flipkart. It is designed to handle product management, multi-user carts, order processing, payment simulation, and system reliability using concepts like concurrency control, transactions, and rollback mechanisms.
 
  #🚀 Features
 
-### 🛍️ Product & Inventory Management
+# 🛍️ Product & Inventory Management
 - Add new products with unique IDs
 - Update and validate stock levels
 - Prevent negative stock and duplicates
